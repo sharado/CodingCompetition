@@ -1,5 +1,5 @@
 /*
-https://www.hackerrank.com/challenges/recursion-in-c/problem
+// https://www.hackerrank.com/challenges/recursion-in-c/problem
 
 There is a series, , where the next term is the sum of pervious three terms. Given the first three terms of the series, , , and  respectively, you have to output the nth term of the series using recursion.
 
