@@ -1,5 +1,5 @@
 # CodingCompetition
-**I have participated in many platforms like Codechef and Techgig**
+**I have participated in many platforms like CodeChef, HackerRank and TechGig**
 
 Amazing coding problems are solved here in Java.
 
