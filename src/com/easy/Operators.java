@@ -1,3 +1,5 @@
+package CodingCompetition.src.com.easy;
+
 /*
 
 https://www.hackerrank.com/challenges/30-operators/problem

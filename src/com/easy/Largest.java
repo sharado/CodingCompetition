@@ -1,3 +1,5 @@
+package CodingCompetition.src.com.easy;
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 

@@ -1,3 +1,5 @@
+package CodingCompetition.src.com.easy;
+
 public class Singleton {
     private static Singleton instance = null;
     public String s;

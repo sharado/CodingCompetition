@@ -1,3 +1,5 @@
+package CodingCompetition.src.com.easy;
+
 /* Read input from STDIN. Print your output to STDOUT*/
 
 import java.util.*;

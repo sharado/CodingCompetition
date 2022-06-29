@@ -1,3 +1,5 @@
+package CodingCompetition.src.com.easy;
+
 /*
 https://www.hackerrank.com/challenges/equal-stacks/problem
 
