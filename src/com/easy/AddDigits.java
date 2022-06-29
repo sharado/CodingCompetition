@@ -1,4 +1,4 @@
-import java.io.*;
+package CodingCompetition.src.com.easy;
 
 /*-------------------------------------------------------
 https://leetcode.com/problems/add-digits/description/
