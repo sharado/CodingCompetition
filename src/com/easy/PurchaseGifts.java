@@ -57,9 +57,8 @@ public class PurchaseGifts {
             cost = br.readLine().trim().split("\\s");
             ArrayList<Long> arr = new ArrayList<Long>();
             
-            for(int j=0;j<cost.length;j++){
+            for(int j=0;j<cost.length;j++)
                 arr.add(Long.parseLong(cost[j]));
-            }
 
             Collections.sort(arr);
             long sum = 0;
